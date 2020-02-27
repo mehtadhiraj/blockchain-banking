@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/mehtadhiraj/blockchain-backend-nodejs.git
+[submodule "minner"]
+	path = minner
+	url = https://github.com/mehtadhiraj/blockchain-minner.git
